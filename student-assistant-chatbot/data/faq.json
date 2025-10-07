@@ -1,0 +1,34 @@
+[
+  {
+    "question": "How do I drop a class?",
+    "answer": "Log into your student portal, open your current schedule/registration page, select the course, and choose Drop/Withdraw. Check the academic calendar for drop and withdrawal deadlines; late drops may affect tuition and financial aid."
+  },
+  {
+    "question": "How do I add a class?",
+    "answer": "Go to the registration section of your student portal, search for the course, verify prerequisites and seat availability, and click Add. If it's full, join the waitlist if available."
+  },
+  {
+    "question": "When is the registration deadline?",
+    "answer": "Deadlines vary by school and term. Check your university Academic Calendar or Registrar page for add/drop and late registration dates."
+  },
+  {
+    "question": "Where can I find tutoring?",
+    "answer": "Most campuses have a tutoring center or learning lab listed under Student Success services. Check the student portal for locations, hours, and booking links."
+  },
+  {
+    "question": "How do I contact my academic advisor?",
+    "answer": "Open your student portal profile; your assigned advisor and email are listed there. You can also find them on your department's advising page."
+  },
+  {
+    "question": "How do I apply for financial aid?",
+    "answer": "Submit the FAFSA (or your country's equivalent) and then check your financial aid tasks in the student portal. Contact the Financial Aid Office for document questions."
+  },
+  {
+    "question": "How do I request transcripts?",
+    "answer": "Use the Registrar/Records section of the portal and choose Official or Unofficial transcripts. Official copies are typically sent via a service like Parchment or NSC."
+  },
+  {
+    "question": "How do I change my major?",
+    "answer": "Meet with your academic advisor, then submit a Change of Major form through the Registrar or Advising office. Some programs require department approval."
+  }
+]
