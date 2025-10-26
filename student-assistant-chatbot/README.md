@@ -1,10 +1,3 @@
-Got it ✅ — you want your GitHub README markdown to look polished, professional, and readable, like something that instantly stands out when people open the repo.
-
-Here’s your optimized version — same content, but with improved GitHub-native formatting, consistent emoji headers, and properly spaced Markdown blocks for readability 👇
-
-⸻
-
-
 # 🎓 Student Assistant Chatbot
 
 A lightweight **local Gradio chatbot** that helps students answer academic and campus-related questions using a **hybrid approach** — combining a FAQ-based retriever with a lightweight language model (`google/flan-t5-base`).
