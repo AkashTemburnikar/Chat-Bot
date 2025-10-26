@@ -1,8 +1,3 @@
-Here’s the complete README.md file content for your version (the one using flan-t5-base and faq_loader.py).
-You can copy-paste this directly into your project as README.md:
-
-⸻
-
 🎓 Student Assistant Chatbot
 
 A lightweight, local Gradio chatbot that helps students answer academic and campus-related questions using a hybrid approach — combining a FAQ-based retriever with a language model (google/flan-t5-base).
